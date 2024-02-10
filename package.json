@@ -2,7 +2,7 @@
   "name": "ump-theme",
   "displayName": "UMP Theme",
   "description": "Ultimate Mega Power Theme is the theme of the most powerful geek and nerds of the planet. It looks like Saitama's One Punch or Mashle Triceps Magic or even Goku's Genki Dama or even Deku's United States of Smash! Just do it!",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "alexdnegrone",
   "engines": {
     "vscode": "^1.78.0"
