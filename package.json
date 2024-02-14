@@ -14,10 +14,15 @@
   "contributes": {
     "themes": [
       {
-        "label": "Ultimate Mega Power Theme",
+        "label": "Ultimate Mega Power Light Theme",
         "uiTheme": "vs",
-        "path": "./themes/Ultimate Mega Power Theme-color-theme.json"
-      }
+        "path": "./themes/Ultimate Mega Power Theme-color-light-theme.json"
+      },
+      {
+        "label": "Ultimate Mega Power Dark Theme",
+        "uiTheme": "vs",
+        "path": "./themes/Ultimate Mega Power Theme-color-dark-theme.json"
+      },
     ]
   },
   "galleryBanner": {
