@@ -1,16 +1,59 @@
-# ump-theme README
+<img src="assets/ump-theme_icon.jpg" alt="UMP Theme" width="128" />
 
-## Working with Markdown
+# UMP Theme — Ultimate Mega Power
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+**Ultimate Mega Power Theme** is the theme of the most powerful geeks and nerds of the planet.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+It looks like Saitama's One Punch. Or Mashle's Triceps Magic. Or Goku's Genki Dama. Or even Deku's United States of Smash.
 
-## For more information
+Just do it. 💥
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Two themes, one power level
 
-**Enjoy!**
+### Ultimate Mega Power Light
+
+The original. A bright, high-contrast workspace built for daylight and open blinds: a clean white canvas, a warm cream sidebar, a burning orange cursor you will never lose, and a lime-green selection that hits like a charged attack. Deep purple accents on the status bar keep the whole thing from feeling clinical.
+
+| | |
+| --- | --- |
+| Editor background | `#ffffff` |
+| Editor foreground | `#000000` |
+| Selection | `#dfff00` |
+| Cursor | `#e67817` |
+| Sidebar | `#f7f6e7` |
+| Status bar | `#562164` |
+
+Syntax highlighting is tuned per language, with dedicated rules for Python, Rust, Haskell, and Unison.
+
+### Ultimate Mega Power Dark
+
+The night form. A soft, dimmed slate palette that keeps contrast readable without burning your retinas at 2 a.m. — muted blues, greens, and purples over a calm dark canvas.
+
+| | |
+| --- | --- |
+| Editor background | `#22272e` |
+| Editor foreground | `#adbac7` |
+| Sidebar | `#1c2128` |
+| Cursor | `#539bf5` |
+
+## Install
+
+From the Extensions view (`Cmd+Shift+X` / `Ctrl+Shift+X`), search for **UMP Theme** and hit Install.
+
+Or from your terminal:
+
+```sh
+code --install-extension alexdnegrone.ump-theme
+```
+
+## Activate
+
+Press `Cmd+K Cmd+T` (macOS) or `Ctrl+K Ctrl+T` (Windows / Linux), then pick **Ultimate Mega Power Light Theme** or **Ultimate Mega Power Dark Theme**.
+
+## Feedback
+
+Found a color that hurts? Open an issue at [github.com/lexcesar/ump-theme/issues](https://github.com/lexcesar/ump-theme/issues).
+
+## License
+
+[MIT](LICENSE) © Alexander Costa

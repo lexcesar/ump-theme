@@ -2,13 +2,24 @@
   "name": "ump-theme",
   "displayName": "UMP Theme",
   "description": "Ultimate Mega Power Theme is the theme of the most powerful geek and nerds of the planet. It looks like Saitama's One Punch or Mashle Triceps Magic or even Goku's Genki Dama or even Deku's United States of Smash! Just do it!",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publisher": "alexdnegrone",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.78.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "color theme",
+    "dark theme",
+    "light theme",
+    "anime",
+    "geek",
+    "ultimate mega power",
+    "ump"
   ],
   "icon": "assets/ump-theme_icon.jpg",
   "contributes": {
@@ -20,7 +31,7 @@
       },
       {
         "label": "Ultimate Mega Power Dark Theme",
-        "uiTheme": "vs",
+        "uiTheme": "vs-dark",
         "path": "./themes/Ultimate Mega Power Theme-color-dark-theme.json"
       }
     ]
@@ -31,7 +42,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dnegrone/ump-theme"
+    "url": "https://github.com/lexcesar/ump-theme.git"
   },
-  "homepage": "https://github.com/dnegrone/ump-theme/blob/main/README.md"
+  "bugs": {
+    "url": "https://github.com/lexcesar/ump-theme/issues"
+  },
+  "homepage": "https://github.com/lexcesar/ump-theme#readme"
 }
