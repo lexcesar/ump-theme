@@ -4,6 +4,12 @@ All notable changes to the **UMP Theme** extension are documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.0.6] - 2026-08-17
+
+### Added
+
+- Bilingual `README`: complete English and Portuguese sections, so the Marketplace page reads natively for both audiences. Includes a placeholder block for the light and dark screenshots.
+
 ## [0.0.5] - 2026-08-17
 
 ### Changed
