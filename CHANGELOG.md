@@ -8,7 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ### Added
 
-- Bilingual `README`: complete English and Portuguese sections, so the Marketplace page reads natively for both audiences. Includes a placeholder block for the light and dark screenshots.
+- Bilingual `README`: complete English and Portuguese sections, so the Marketplace page reads natively for both audiences. Includes screenshots of both themes running in VS Code.
 
 ## [0.0.5] - 2026-08-17
 

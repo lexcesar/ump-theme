@@ -4,10 +4,13 @@
 
 **English** · [Português](#português)
 
-<!-- Screenshots: drop the two PNGs in assets/ and uncomment the block below.
-<img src="assets/screenshot-light.png" alt="Ultimate Mega Power Light" width="100%" />
-<img src="assets/screenshot-dark.png" alt="Ultimate Mega Power Dark" width="100%" />
--->
+**Ultimate Mega Power Dark**
+
+<img src="assets/screenshot-dark.png" alt="Ultimate Mega Power Dark Theme in VS Code" width="100%" />
+
+**Ultimate Mega Power Light**
+
+<img src="assets/screenshot-light.png" alt="Ultimate Mega Power Light Theme in VS Code" width="100%" />
 
 ## English
 
